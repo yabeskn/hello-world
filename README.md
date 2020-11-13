@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Everyone!
+
+Freddy Here, happy watching. Thank you
